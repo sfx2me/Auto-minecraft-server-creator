@@ -4,7 +4,8 @@ Create your own minecraft paper server in one click (supports 1.18 and 1.19)
 Join my Discord if you need help
 https://discord.gg/QbWGVZvRWc
 
-#showcase
+# Showcase
+https://vm.tiktok.com/ZMN6MQ2Au/?k=1
 
 # How to use
 1.Put the file in the folder you want your server to be created in
