@@ -26,10 +26,8 @@ def download(wanted_version):
         
 def setup_server(ram):
     ram = int(ram)
-    os.system("cls")
     print("Seting up everything for you...")
     start_server(ram)
-    os.system("cls")
     print("Agreeing eula for you")
     os.remove("eula.txt")
     with open('eula.txt', 'w') as f:
