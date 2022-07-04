@@ -4,6 +4,11 @@ Create your own minecraft paper server in one click (supports 1.18 and 1.19)
 Join my Discord if you need help
 https://discord.gg/QbWGVZvRWc
 
+# THANKS
+Thanks to falc0n2222!
+He improved this code by a lot <3
+Love you
+
 # Showcase
 https://vm.tiktok.com/ZMN6MQ2Au/?k=1
 
